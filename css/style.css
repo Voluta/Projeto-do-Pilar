@@ -985,7 +985,7 @@ textarea.form-control {
 ============================ */
 .footer {
 	background:#292929;
-	padding:50px;	
+	padding:50px;
 }
 
 .footer p {
@@ -998,46 +998,6 @@ textarea.form-control {
 	color:#fff;
 	margin-bottom:50px;
 	font-size:20px;
-}
-
-ul.social-network {
-	margin-top:30px;
-	transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -webkit-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-}
-
-ul.social-network li {
-	display:inline;
-	font-size: 14px;
-	margin-right:10px;
-	
-}
-ul.social-network li a {	
-	color:#d0d0d0;
-	padding:5px 10px;
-	background:#000;
-	border-radius:50%;
-}
-
-.social-network li:hover .fa-twitter {	
-	color: #00abf0;	
-}
-
-.social-network li:hover .fa-facebook {
-  color: #39579a;
-}
-.social-network li:hover .fa-google-plus {
-  color: #eb8984;
-}
-.social-network li:hover .fa-pinterest {
-  color: #c9171e;
-  
-}
-.social-network li:hover .fa-linkedin {
-  color: #0077b5;
-  
 }
 .footer h3 {
 	color:#fff;
